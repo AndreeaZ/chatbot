@@ -10,6 +10,7 @@ User can then select any one of those stocks to view the latest stock price.
 - open localhost:3000 in your browser
 
 Node version used: **16.20.0** 
+
 **NOTE: Node versions higher than 17 will cause OpenSSL issues. If that happens, please install Node.js version 16+ or run run in your terminal export NODE_OPTIONS=--openssl-legacy-provider**
 
 **Technical details**
