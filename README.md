@@ -3,14 +3,14 @@
 Chatbot that enables user to select any of 3 Stock Exchanges (LSEG, NASDAQ, NYSE) and for the selected exchange provides 5 stocks that are traded in that exchange.
 User can then select any one of those stocks to view the latest stock price.
 
-**How to start the projec**
+**How to start the project**
 - clone the project on your machine: ```git clone <https/ssh url>```
 - install dependencies: ```npm i```
 - start the project: ```npm run start```
 - open localhost:3000 in your browser
 
-Node version used: 16.20.0 
-* NOTE: Node versions higher than 17 will cause OpenSSL issues. If that happens, please install Node.js version 16+ or run run in your terminal export NODE_OPTIONS=--openssl-legacy-provider
+Node version used: **16.20.0** 
+**NOTE: Node versions higher than 17 will cause OpenSSL issues. If that happens, please install Node.js version 16+ or run run in your terminal export NODE_OPTIONS=--openssl-legacy-provider**
 
 **Technical details**
 - library used: react-simple-chatbot
